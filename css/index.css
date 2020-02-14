@@ -223,6 +223,18 @@ footer nav a {
     margin-bottom: 16px;
 }
 
+
+
+/* contact page */
+.title {
+    margin-bottom: 20px;
+}
+
+.contact-form {
+    margin: 20px 0 32px 0;
+    padding: 0 32px;
+}
+
 /* box colors */
 #box1 {
     background-color: teal;
