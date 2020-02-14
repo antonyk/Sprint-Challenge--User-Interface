@@ -213,6 +213,8 @@ footer nav a {
     margin-bottom: 32px;
 }
 .about-card img {
+    width: 370px;
+    height: 236px;
     margin-bottom: 16px;
 }
 .about-card h2 {
